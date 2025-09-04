@@ -5,3 +5,4 @@ description = "A nightly newspaper that writes itself: an agent runs the desks, 
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# drop an unused branch
